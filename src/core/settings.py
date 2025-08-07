@@ -151,8 +151,8 @@ REST_FRAMEWORK = {
 
 # Spectacular settings
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'Dental Clinic API',
-    'DESCRIPTION': 'API для стоматологічної клініки',
+    'TITLE': 'Google Reviews API',
+    'DESCRIPTION': 'API для отримання відгуків з Google',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
     'COMPONENT_SPLIT_REQUEST': True,
